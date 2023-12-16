@@ -91,7 +91,7 @@
    ```
    > git push origin main
    
-5. Used to pull the changes of branch named ```branch-name``` from the remote repository named ```url-name``` to the local Git repository
+5. Used to pull the changes of the branch named ```branch-name``` from the remote repository named ```url-name``` to the local Git repository
     ```bash
     git pull <url-name> <branch-name>
     ```
